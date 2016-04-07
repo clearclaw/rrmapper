@@ -1,0 +1,5 @@
+recursive-include rrmapper *.conf
+include versioneer.py
+include rrmapper/_version.py
+include requirements.txt
+include LICENSE
